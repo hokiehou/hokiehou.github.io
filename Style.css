@@ -21,7 +21,6 @@ html {
 
 
 .homepagetitle {font-size: 45px; text-align: center; font-family: Arial; color: gainsboro}
-.everyhome1 { text-align: center; font-family: Arial; color:  white;}
 
 
 .category { font-size: 18px; color: gainsboro; font-family: Arial; text-align: center;}
@@ -107,7 +106,7 @@ html {
 
 
 .aboutbackground {
-    height: 1111px;
+    height: 780px;
         background-image: url(Best%20Cover%20Mine%20B&W.jpg);
         background-repeat: no-repeat;
         background-position: center;
